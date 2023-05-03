@@ -13,8 +13,7 @@
 <li>Lodash.Debounce</li>
 <br>
 API:
-<li>OMDB</li>
-<li>Shareholic</li>
+https://640f2555cde47f68db42ee23.mockapi.io/items
 <hr>
 <h3 align=center>О проекте:</h3>
 <br>
@@ -29,6 +28,10 @@ API:
 <li>Логика фильтрации для сортировки пицц по популярности, цене, алфавиту</li>
 <li>Реализация debounce (оптимизация для поиска пицц).</li>
 <li>Реализаиция loader</li>
+<li>Добавление пицц в корзину</li>
 <li>Обработка ошибок на разных этапах работы сайта </li>
 <li>Адаптация под разные типы устройств</li>
 <br><br>
+<h3>Ознакомиться с проектом можно по ссылке:</h3>
+https://ditsukanova.github.io/myStore/
+
