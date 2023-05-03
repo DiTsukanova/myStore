@@ -14,8 +14,8 @@ function App() {
         <div className="content">
           <div className="container">
             <Routes>
-              <Route path="myStore/" element={<Home/>} />
-              <Route path="*" element={<NotFound/>} />
+              <Route path="*" element={<Home/>} />
+              <Route path="/" element={<NotFound/>} />
               <Route path="/pizza/:id" element={<FullPizza/>} />
               <Route path="/cart.html" element={<Cart />} />
             </Routes>
